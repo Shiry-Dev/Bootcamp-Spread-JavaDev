@@ -1,0 +1,7 @@
+Comandos Git:
+git init 
+git config --global user.email "xxx"
+git config --global user.name "yyy"
+git add .
+git commit -m "zzz"
+git push origin main
